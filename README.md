@@ -1,4 +1,5 @@
-# Getting-and-Cleaning-Data
+# Readme.md
+##Coursera course Getting-and-Cleaning Data, course project
 
 The script run_analysis.R assumes that all data is under one folder - "UCI HAR Dataset" (the name of the zip file that has all the data).
 
